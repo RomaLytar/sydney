@@ -1,18 +1,483 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82962ed9-50c6-4ce7-86de-e9f330633fb5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/acf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-field-group.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/css/acf-input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/acf.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/acf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/acf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/acf.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/acf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/font/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/images/acf-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/images/spinner@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/images/ui-bg_highlight-soft_0_ffffff_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/images/ui-icons_DDDDDD_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/datepicker/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2-spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/3/select2x2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/select2/4/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-field-group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-field-group.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/assets/js/acf-input.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-field-group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-field-groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin-upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/settings-addons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/settings-info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-export.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool-import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/tools/class-acf-admin-tool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-field-conditional-logic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-fields.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-locations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/field-group-options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-admin-page-upgrade-network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-admin-page-upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-admin-tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-location-rule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/html-notice-upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/settings-addons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/admin/views/settings-info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-check-screen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-query-terms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-query.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax-user-setting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/ajax/class-acf-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-field-group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-helpers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-input.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-term.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/api/api-value.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/assets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/compatibility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/deprecated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/early-access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-accordion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-button-group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-checkbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-color_picker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-date_picker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-date_time_picker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-google-map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-number.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-oembed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-output.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-page_link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-password.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-post_object.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-radio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-range.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-relationship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-select.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-separator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-textarea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-time_picker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-true_false.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-url.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field-wysiwyg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/fields/class-acf-field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-attachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-front.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-gutenberg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-nav-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/forms/form-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/local.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-attachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-current-user-role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-current-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-nav-menu-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-nav-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-page-parent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-page-template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-page-type.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-format.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post-type.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-user-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-user-role.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location-widget.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/locations/class-acf-location.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/media.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/revisions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/third-party.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/updates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/upgrades.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/walkers/class-acf-walker-nav-menu-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/walkers/class-acf-walker-taxonomy-field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/includes/wpml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ar.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ar.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-bg_BG.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-bg_BG.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-cs_CZ.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-cs_CZ.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_CH.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_CH.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_DE_formal.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-de_DE_formal.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fa_IR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fa_IR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fi.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fi.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-he_IL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-he_IL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-hr_HR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-hr_HR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-hu_HU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-hu_HU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-id_ID.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-id_ID.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ja.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ja.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-nb_NO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-nb_NO.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pt_BR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pt_BR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ro_RO.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ro_RO.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-ru_RU.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-sk_SK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-sk_SK.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-sv_SE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-sv_SE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-tr_TR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-tr_TR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-uk.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-uk.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-zh_CN.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf-zh_CN.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/lang/acf.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/advanced-custom-fields/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/single.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/functions.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="404.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/sydney/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sydney/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="sydney" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\sydney.loc\wp-content\themes\sydney" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82962ed9-50c6-4ce7-86de-e9f330633fb5" name="Default" comment="" />
+      <created>1537441446971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537441446971</updated>
+      <workItem from="1537441448819" duration="1480000" />
+    </task>
+    <task id="LOCAL-00001" summary="merge">
+      <created>1537441781350</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537441781350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1480000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/functions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/page.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentyseventeen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="51" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
