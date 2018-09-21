@@ -2,114 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82962ed9-50c6-4ce7-86de-e9f330633fb5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sydney.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/css/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCondensedBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCondensedBold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCondensedBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCondensedBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCondensedBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrMedium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrMedium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrMedium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrMedium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrMedium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrRoman.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrRoman.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrRoman.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrRoman.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/HelveticaNeueCyrRoman.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/MinionProRegular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/MinionProRegular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/MinionProRegular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/MinionProRegular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/MinionProRegular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/article/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/bigSocIcon/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/bigSocIcon/inst.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/bigSocIcon/tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/bigSocIcon/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/concert.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/fest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/headerSoc/soc1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/headerSoc/soc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/headerSoc/soc3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/headerSoc/soc4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/headerSoc/soc5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/ins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/instImg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/logo/logo8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/buttonStart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/page/youTube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/searchIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/secondPage/content1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/secondPage/content2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/secondPage/sliderSecondPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/sens16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/sens17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/slider/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/slider/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/upArroy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/images/youtube.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/js/jquery.h5validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/setting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens17-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/09/sens17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/setting.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/include/setting.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -123,7 +20,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
+            <state relative-caret-position="310">
               <caret line="248" column="16" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="16" />
             </state>
           </provider>
@@ -132,8 +29,20 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+            <state relative-caret-position="289">
+              <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+              <folding>
+                <marker date="1537524644097" expanded="true" signature="2985:5070" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="walker_menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -147,20 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setting.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/setting.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="119">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -199,7 +99,6 @@
       <find>wp_enqueue_style</find>
       <find>twentyseventeen_scripts</find>
       <find>img</find>
-      <find>img src</find>
       <find>headerNav</find>
       <find>headerText</find>
       <find>wfm</find>
@@ -208,7 +107,6 @@
       <find>rom_body_id</find>
       <find>rom_body_bg_cb</find>
       <find>rom_check_pic_cb</find>
-      <find>rom_options_theme_file_check</find>
       <find>rom_options_theme</find>
       <find>tmp_name</find>
       <find>rom_options_theme_file</find>
@@ -216,6 +114,10 @@
       <find>table</find>
       <find>settings_fields</find>
       <find>rom_options_group</find>
+      <find>rom_options_theme_file_check</find>
+      <find>rom_check_pic_id</find>
+      <find>rom_body_title_cb</find>
+      <find>img src</find>
     </findStrings>
     <replaceStrings>
       <replace>rom</replace>
@@ -229,17 +131,21 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/sydney/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sydney/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sydney/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sydney/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sydney/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sydney/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sydney/setting.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sydney/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sydney/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php" />
       </list>
     </option>
   </component>
@@ -305,6 +211,14 @@
               <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="sydney" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sydney.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sydney.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="twentyseventeen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -323,6 +237,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\sydney.loc\wp-content\themes\sydney\include" />
       <recent name="C:\OSPanel\domains\sydney.loc\wp-content\themes\sydney" />
     </key>
   </component>
@@ -349,7 +264,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537441446971</updated>
       <workItem from="1537441448819" duration="2477000" />
-      <workItem from="1537512274058" duration="7009000" />
+      <workItem from="1537512274058" duration="11294000" />
     </task>
     <task id="LOCAL-00001" summary="merge">
       <created>1537441781350</created>
@@ -365,14 +280,22 @@
       <option name="project" value="LOCAL" />
       <updated>1537444510809</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="setting page">
+      <created>1537520721348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537520721348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9486000" />
+    <option name="totallyTimeSpent" value="13771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -405,7 +328,8 @@
     <MESSAGE value="merge" />
     <MESSAGE value="theme" />
     <MESSAGE value="bd" />
-    <option name="LAST_COMMIT_MESSAGE" value="bd" />
+    <MESSAGE value="setting page" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
@@ -491,10 +415,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
+        <state relative-caret-position="310">
           <caret line="248" column="16" selection-start-line="248" selection-start-column="9" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/include/setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -505,31 +443,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="56" column="39" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="119">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/setting.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        <state relative-caret-position="289">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+          <folding>
+            <marker date="1537524644097" expanded="true" signature="2985:5070" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

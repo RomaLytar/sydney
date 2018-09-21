@@ -82,34 +82,45 @@
         <span class="icon-bar"></span>
       </button>
     </div>
-    <div id="navbar" class="navbar-collapse menu">
-      <ul class="nav navbar-nav ">
-        <li class="dropdown">
-          <a href="#" data-toggle="dropdown" class="dropdown-toggle">what‘s on</a>
-          <ul class="dropdown-menu">
-            <li><a href="#">chorusoz 2017</a></li>
-            <li><a href="#">tudor portraits</a></li>
-            <li><a href="#">nordic songs</a></li>
-            <li><a href="#">elgarthedreamofgerontius</a></li>
-            <li><a href="#">songs of farewell</a></li>
-            <li><a href="#">handel messiah</a></li>
-          </ul>
-        </li>
-        <li><a href="#">support us</a></li>
-        <li><a href="#">sing with us</a></li>
-        <li  class="dropdown">
-          <a href="#" data-toggle="dropdown" class="dropdown-toggle">about us</a>
-          <ul class="dropdown-menu">
-            <li><a href="#">music director</a></li>
-            <li><a href="#">history</a></li>
-            <li><a href="#">board and management</a></li>
-            <li><a href="#">chorister alumni</a></li>
-            <li><a href="#">contact</a></li>
-          </ul>
-        </li>
-        <li><a href="#">media</a></li>
-        <li><a href="#">contact</a></li>
-      </ul>
-    </div>
+          <div id="navbar" class="navbar-collapse menu">
+    <?php wp_nav_menu(array(
+      'theme_location'  => 'header_menu',
+      'menu'            => 'div',
+      'container'       => false,
+      'menu_class'      => 'nav navbar-nav',
+      'menu_id'         => '',
+      'walker' => new Custom_Walker_Nav_Menu()
+    ));
+    ?>
+          </div>
+
+<!--      <ul class="nav navbar-nav ">-->
+<!--        <li class="dropdown">-->
+<!--          <a href="#" data-toggle="dropdown" class="dropdown-toggle">what‘s on</a>-->
+<!--          <ul class="dropdown-menu">-->
+<!--            <li><a href="#">chorusoz 2017</a></li>-->
+<!--            <li><a href="#">tudor portraits</a></li>-->
+<!--            <li><a href="#">nordic songs</a></li>-->
+<!--            <li><a href="#">elgarthedreamofgerontius</a></li>-->
+<!--            <li><a href="#">songs of farewell</a></li>-->
+<!--            <li><a href="#">handel messiah</a></li>-->
+<!--          </ul>-->
+<!--        </li>-->
+<!--        <li><a href="#">support us</a></li>-->
+<!--        <li><a href="#">sing with us</a></li>-->
+<!--        <li  class="dropdown">-->
+<!--          <a href="#" data-toggle="dropdown" class="dropdown-toggle">about us</a>-->
+<!--          <ul class="dropdown-menu">-->
+<!--            <li><a href="#">music director</a></li>-->
+<!--            <li><a href="#">history</a></li>-->
+<!--            <li><a href="#">board and management</a></li>-->
+<!--            <li><a href="#">chorister alumni</a></li>-->
+<!--            <li><a href="#">contact</a></li>-->
+<!--          </ul>-->
+<!--        </li>-->
+<!--        <li><a href="#">media</a></li>-->
+<!--        <li><a href="#">contact</a></li>-->
+<!--      </ul>-->
+<!--    </div>-->
   </nav>
 </header>

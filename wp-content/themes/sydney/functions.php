@@ -11,4 +11,9 @@
 //
 //}
 //add_action( 'wp_enqueue_scripts', 'theme_sydney_scripts' );
-include dirname(__FILE__) . '/setting.php';
+include dirname(__FILE__) . '/include/setting.php';
+include dirname(__FILE__) . '/include/walker_menu.php';
+
+register_nav_menus(array(
+  'header_menu' => 'Меню хедер',
+));
