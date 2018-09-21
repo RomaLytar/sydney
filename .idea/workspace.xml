@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82962ed9-50c6-4ce7-86de-e9f330633fb5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/sydney/include/walker_menu.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+            <state relative-caret-position="170">
+              <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
               <folding>
                 <marker date="1537525357842" expanded="true" signature="2985:5182" ph="..." />
               </folding>
@@ -262,7 +260,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537441446971</updated>
       <workItem from="1537441448819" duration="2477000" />
-      <workItem from="1537512274058" duration="11694000" />
+      <workItem from="1537512274058" duration="11733000" />
     </task>
     <task id="LOCAL-00001" summary="merge">
       <created>1537441781350</created>
@@ -292,15 +290,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537525133247</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="walker naw menu new">
+      <created>1537525379822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537525379822</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14171000" />
+    <option name="totallyTimeSpent" value="14210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -335,7 +339,8 @@
     <MESSAGE value="bd" />
     <MESSAGE value="setting page" />
     <MESSAGE value="walker naw menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="walker naw menu" />
+    <MESSAGE value="walker naw menu new" />
+    <option name="LAST_COMMIT_MESSAGE" value="walker naw menu new" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/index.php">
@@ -465,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sydney/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="94" column="20" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="20" />
+        <state relative-caret-position="170">
+          <caret line="87" column="25" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
           <folding>
             <marker date="1537525357842" expanded="true" signature="2985:5182" ph="..." />
           </folding>
