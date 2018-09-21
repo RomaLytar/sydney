@@ -83,15 +83,16 @@
       </button>
     </div>
           <div id="navbar" class="navbar-collapse menu">
-    <?php wp_nav_menu(array(
-      'theme_location'  => 'header_menu',
-      'menu'            => 'div',
-      'container'       => false,
-      'menu_class'      => 'nav navbar-nav',
-      'menu_id'         => '',
-      'walker' => new Custom_Walker_Nav_Menu()
-    ));
-    ?>
+              <div class="menu__list-wrap">
+                <?php wp_nav_menu(array(
+                  'theme_location'  => '',
+                  'menu'            => '',
+                  'container'       => false,
+                  'menu_class'      => 'menu__list',
+                  'walker' => new Custom_Walker_Nav_Menu()
+                ));
+                ?>
+              </div>
           </div>
 
 <!--      <ul class="nav navbar-nav ">-->
